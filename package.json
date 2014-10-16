@@ -1,5 +1,5 @@
 {
-  "name": "uploads",
+  "name": "file-upload",
   "version": "0.0.1",
   "description": "Mini http file upload service built with Formidable",
   "main": "app.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type" : "git",
-    "url" : "https://github.com/popox/uploads.git"
+    "url" : "https://github.com/popox/file-upload.git"
   },
   "keywords": [
     "server",
